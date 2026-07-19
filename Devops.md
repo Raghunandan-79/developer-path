@@ -1,8 +1,8 @@
 # Devops Roadmap
 
 ### **Phase 1**
-1. Git and GitHub: (https://youtu.be/AT1uxOLsCdk)
-2. Computer Networking: [Clickable Text] (https://youtu.be/xN3BKHji12I)
+1. Git and GitHub: https://youtu.be/AT1uxOLsCdk
+2. Computer Networking: https://youtu.be/xN3BKHji12I
 3. Linux: [Clickable Text] (https://youtu.be/e01GGTKmtpc)
 4. Shell Scripting: [Clickable Text] (https://youtu.be/9Xl1ZTk3BQw)
 5. Cloud (AWS): [Clickable Text] (https://youtube.com/playlist?list=PLlfy9GnSVerQK70g5dFWZ0hFKv6PeEPW0&si=W_FtKQGiFl3GSM8L) or  [Clickable Text] (https://youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze&si=21a-0EDtwh-FSLZy)
